@@ -11,7 +11,6 @@ This page briefly showcases the results and methodology for constructing Rarita'
 
 > To find more details on the SOA Challenge, please click [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
 
-
 ## Project Objectives
 
 The project aims to  help Rarita form a competitive national football team, which is expected to boost the country’s economy. With the competitiveness defined as follows:
