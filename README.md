@@ -159,10 +159,8 @@ growth and expense growth can be explored due to limited data. This results in h
 > The detailed cash flow projections by year is shown below, where the inflation rate is assumed to be 3% per annum.
 
 <p align="center">
-  <img src=economic.PNG>
+  <img width="320" height="200" src=economic.PNG>
 </p>
-
-<img align="centre" width="300" height="200" src=economic.PNG>
 
 ### Direct impacts
 
