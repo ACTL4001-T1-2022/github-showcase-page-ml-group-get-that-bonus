@@ -121,7 +121,7 @@ From the projection above, except the initial funding of 995 million doubloons, 
 * **Three-stage separation model:** There will still be residual impacts of COVID-19 pandemic on global economy in 2022 but minimal impacts for 2022 onwards. For 2023-2027, the team will be subject to multiple changes including player composition, revenue and expense composition due to successful implement of strategies and achieving higher rankings in the FSA and other potential changes in short-term.  At this stage, the team is expected to experience revenue boost and expense management. After Year 7, the team is expected to be mature in team operation and should be subject to long-term expense and revenue growth rate. The key assumptions for the 3-stage separation model is shown below.
 
 <p align="center">
-<img src=DCF_key_assumptions.png  width="200" height="200"/>
+<img src=DCF_key_assumptions.png  width="300" height="300"/>
 </p>
 
 > The detailed assumptions by year is shown below.
@@ -144,7 +144,9 @@ growth and expense growth can be explored due to limited data. This results in h
 * To maximize revenues, expansion of stadium and invention of creative activities are also very important. Launching a new streaming platform for a subscription fee can increase fan engagement to increase matchday and broadcast revenues.
 * The long-term revenue is composed from 50% commercial, 35% broadcast and 15% matchday as shown below.
 
-![](revenue_composition.png)
+<p align="center">
+<img src=revenue_composition.png  width="200" height="200"/>
+</p>
 
 ---
 
@@ -152,7 +154,10 @@ growth and expense growth can be explored due to limited data. This results in h
 
 > The detailed cash flow projections by year is shown below, where the inflation rate is assumed to be 3% per annum.
 
-![](economic.PNG)
+<p align="center">
+<img src=economic.PNG  width="400" height="400"/>
+</p>
+
 
 ### Direct impacts
 
@@ -210,7 +215,10 @@ The 10-year cash flow model is built upon the commercial strategy to generate 7%
 > Please also kindly note that the [final report](Report.pdf) subimitted contains more detailed information and elaboration of the section presented above with other addtional sections required by the case study. 
 
 Thank you for reading and have a nice day!
-![](thank_you.gif)
+
+<p align="center">
+<img src=thank_you.gif  width="600" height="600"/>
+</p>
 
 ---
 
