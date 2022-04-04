@@ -3,8 +3,8 @@
 By ML Group
 
 <p align="center">
-<img alt="error" src=football_logo.gif  width="600" height="400"\>
-<\p>
+<img src="football_logo.gif"  width="600" height="400"/>
+</p>
 
 ---
 ## Project Overview
