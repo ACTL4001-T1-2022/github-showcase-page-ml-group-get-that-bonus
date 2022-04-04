@@ -148,8 +148,6 @@ growth and expense growth can be explored due to limited data. This results in h
   <img src=revenue_composition.png>
 </p>
 
-![](revenue_composition.png)
-
 ---
 
 ## Economic Impacts
