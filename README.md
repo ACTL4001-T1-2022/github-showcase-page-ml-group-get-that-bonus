@@ -3,10 +3,9 @@
 By ML Group
 
 ![](football_logo.gif#center)
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
+<p align="center">
+  <img src=football_logo.gif />
+</p>
 
 ---
 ## Project Overview
