@@ -3,6 +3,10 @@
 By ML Group
 
 ![](football_logo.gif#center)
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
 
 ---
 ## Project Overview
