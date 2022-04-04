@@ -3,7 +3,7 @@
 By ML Group
 
 <p align="center">
-  <img src=football_logo.gif />
+  <img src=football_logo.gif>
 </p>
 
 ---
@@ -173,7 +173,7 @@ The two key metrics to rank risks are frequency and severity. By common sense, t
 
 The 10-year cash flow model is built upon the commercial strategy to generate 7% IRR and PV of 21335.49 million using valid assumptions. We predict constructing a national football team can have good impacts on Rarita’s economy from multiple aspects including tourism, retailing, employment and willingness to consume. Those should affect East Rarita the most. We discussed ethical, reputation, healthcare and political risks and their mitigation methods.
 
-> Please also kindly note that the final report subimitted contains more detailed information and elaboration of the section presented above with other addtional sections required by the case study. 
+> Please also kindly note that the [final report](Report.pdf) subimitted contains more detailed information and elaboration of the section presented above with other addtional sections required by the case study. 
 
 Thank you for reading and have a nice day!
 ![](thank_you.gif)
