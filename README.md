@@ -162,7 +162,7 @@ growth and expense growth can be explored due to limited data. This results in h
   <img src=economic.PNG>
 </p>
 
-<img align="center" width="600" height="200" src=economic.PNG>
+<img align="centre" width="300" height="200" src=economic.PNG>
 
 ### Direct impacts
 
