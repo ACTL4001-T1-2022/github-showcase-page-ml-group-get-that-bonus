@@ -37,7 +37,7 @@ The modelling steps are outlined below:
 Calculate an overall rank for each player based on weighted average rank of those selected performance features.
 * Select 21 players with the highest ranks with filtered positions and substitute players are also selected based on their ranking and age.
 
-> For detailed R code, please click  [R code: linear and shrikange models](sample-data-clean.ipynb) for linear and shrinkage models, click  [R code: Ensemble models](sample-data-clean.ipynb) for tree-based models, click [R code: exploratory data analysis](sample-data-clean.ipynb) for exploratory data analysis. 
+> For detailed R code, please click  [R code: linear and shrikange models](linear.R) for linear and shrinkage models, click  [R code: Ensemble models](ensemble.R) for tree-based models, click [R code: exploratory data analysis](data_clearning_exploratory_data_analysis.R) for exploratory data analysis. 
 
 ---
 **Data limitatoin: **
