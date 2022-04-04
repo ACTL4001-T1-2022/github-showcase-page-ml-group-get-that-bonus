@@ -221,12 +221,12 @@ Thank you for reading and have a nice day!
 ## Sources
 
 >
-1.	ABC Assignment help. 2022. INTERNAL ANALYSIS OF CHELSEA FOOTBALL CLUB. [online] Available at: <<https://www.abcassignmenthelp.com/internal-analysis-of-chelsea-football-club>> [Accessed 24 March 2022].
-2.	Asika, K., 2017. How does a football club make its money?. [online] Quora. Available at: <<https://www.quora.com/How-does-a-football-club-make-its-money>>[Accessed 24 March 2022].COMMERCIALIZATION STRATEGIES IN FOOTBALL
-3.	Campelli, M., 2022. Quantifying the economic and social impact of football – Sustainability Report. [online] Sustainabilityreport.com. Available at: <<https://sustainabilityreport.com/2021/01/28/quantifying-the-economic-and-social-impact-of-football/>> [Accessed 24 March 2022].
-4.	Deloitte United Kingdom. 2021. Football Money League 2021. Deloitte UK. [online] Available at: <<https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html>> [Accessed 24 March 2022].
-5.	Deloitte United Kingdom. 2022. Football Money League 2022. Deloitte UK. [online] Available at: <<https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html>> [Accessed 24 March 2022].
-6.	Deloitte United Kingdom. 2022. Annual Review of Football Finance 2021. Deloitte UK. [online] Available at: <<https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/annual-review-of-football-finance.html>> [Accessed 19 March 2022].
+1.	ABC Assignment help. 2022. INTERNAL ANALYSIS OF CHELSEA FOOTBALL CLUB. [online] Available at: <https://www.abcassignmenthelp.com/internal-analysis-of-chelsea-football-club> [Accessed 24 March 2022].
+2.	Asika, K., 2017. How does a football club make its money?. [online] Quora. Available at: <https://www.quora.com/How-does-a-football-club-make-its-money>[Accessed 24 March 2022].COMMERCIALIZATION STRATEGIES IN FOOTBALL
+3.	Campelli, M., 2022. Quantifying the economic and social impact of football – Sustainability Report. [online] Sustainabilityreport.com. Available at: <https://sustainabilityreport.com/2021/01/28/quantifying-the-economic-and-social-impact-of-football/> [Accessed 24 March 2022].
+4.	Deloitte United Kingdom. 2021. Football Money League 2021. Deloitte UK. [online] Available at: <https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html> [Accessed 24 March 2022].
+5.	Deloitte United Kingdom. 2022. Football Money League 2022. Deloitte UK. [online] Available at: <https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html> [Accessed 24 March 2022].
+6.	Deloitte United Kingdom. 2022. Annual Review of Football Finance 2021. Deloitte UK. [online] Available at: <https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/annual-review-of-football-finance.html> [Accessed 19 March 2022].
 7.	Football-stadiums.co.uk. 2022. How Do Football Clubs Make Money?. [online] Available at: <https://www.football-stadiums.co.uk/articles/how-do-football-clubs-make-money/> [Accessed 24 March 2022]. 
 8.	Insurancebusinessmag.com. 2022. Insuring red card risks at World Cup tournaments. [online] Available at: <https://www.insurancebusinessmag.com/us/risk-management/news/insuring-red-card-risks-at-world-cup-tournaments-104751.aspx> [Accessed 24 March 2022].
 9.	Jr, B., 2019. Revealed: the economic benefits of football. [online] Arabian Business. Available at: <https://www.arabianbusiness.com/gcc/saudi-arabia/saudi-arabia-sport/410639-revealed-the-economic-benefits-of-football> [Accessed 24 March 2022].
