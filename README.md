@@ -1,6 +1,6 @@
 # SOA Challenge: Rarita FSA League Project Showcase
 
-BY ML Group
+By ML Group
 
 ![](football_logo.gif)
 
