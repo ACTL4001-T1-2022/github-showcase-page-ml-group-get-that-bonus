@@ -145,7 +145,7 @@ growth and expense growth can be explored due to limited data. This results in h
 * The long-term revenue is composed from 50% commercial, 35% broadcast and 15% matchday as shown below.
 
 <p align="center">
-<img src="revenue_composition.png"  width=30% height=30%/>
+<img src="revenue_composition.png"  width="30%" height="30%" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ growth and expense growth can be explored due to limited data. This results in h
 > The detailed cash flow projections by year is shown below, where the inflation rate is assumed to be 3% per annum.
 
 <p align="center">
-<img src="economic.PNG"  width=50% height=50%/>
+<img src="economic.PNG"  width="50%“ height=”50%“/>
 </p>
 
 ### Direct impacts
@@ -216,7 +216,7 @@ The 10-year cash flow model is built upon the commercial strategy to generate 7%
 Thank you for reading and have a nice day!
 
 <p align="center">
-<img src="thank_you.gif"  width="800" height="600"/>
+<img src="thank_you.gif"  width="700" height="500"/>
 </p>
 
 ---
