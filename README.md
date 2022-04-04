@@ -178,4 +178,28 @@ The 10-year cash flow model is built upon the commercial strategy to generate 7%
 Thank you for reading and have a nice day!
 ![](thank_you.gif)
 
+---
+
+## Sources
+
+>
+1.	ABC Assignment help. 2022. INTERNAL ANALYSIS OF CHELSEA FOOTBALL CLUB. [online] Available at: <https://www.abcassignmenthelp.com/internal-analysis-of-chelsea-football-club> [Accessed 24 March 2022].
+2.	Asika, K., 2017. How does a football club make its money?. [online] Quora. Available at: <https://www.quora.com/How-does-a-football-club-make-its-money> [Accessed 24 March 2022].COMMERCIALIZATION STRATEGIES IN FOOTBALL
+3.	Campelli, M., 2022. Quantifying the economic and social impact of football – Sustainability Report. [online] Sustainabilityreport.com. Available at: <https://sustainabilityreport.com/2021/01/28/quantifying-the-economic-and-social-impact-of-football/> [Accessed 24 March 2022].
+4.	Deloitte United Kingdom. 2021. Football Money League 2021| Deloitte UK. [online] Available at: < https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html> [Accessed 24 March 2022].
+5.	Deloitte United Kingdom. 2022. Football Money League 2022| Deloitte UK. [online] Available at: < https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/deloitte-football-money-league.html> [Accessed 24 March 2022].
+6.	Deloitte United Kingdom. 2022. Annual Review of Football Finance 2021 | Deloitte UK. [online] Available at: <https://www2.deloitte.com/uk/en/pages/sports-business-group/articles/annual-review-of-football-finance.html> [Accessed 19 March 2022].
+7.	Football-stadiums.co.uk. 2022. How Do Football Clubs Make Money?. [online] Available at: <https://www.football-stadiums.co.uk/articles/how-do-football-clubs-make-money/> [Accessed 24 March 2022]. 
+8.	Insurancebusinessmag.com. 2022. Insuring red card risks at World Cup tournaments. [online] Available at: <https://www.insurancebusinessmag.com/us/risk-management/news/insuring-red-card-risks-at-world-cup-tournaments-104751.aspx> [Accessed 24 March 2022].
+9.	Jr, B., 2019. Revealed: the economic benefits of football. [online] Arabian Business. Available at: <https://www.arabianbusiness.com/gcc/saudi-arabia/saudi-arabia-sport/410639-revealed-the-economic-benefits-of-football> [Accessed 24 March 2022].
+10.	Krabbenbos, T., 2013. COMMERCIALIZATION STRATEGIES IN FOOTBALL. pp.24-40.
+11.	Liu, Y., 2013. Assessing the Long-term Economic Impacts of the World Cup as Mega-sport Event | The People, Ideas, and Things (PIT) Journal. [online] Pitjournal.unc.edu. Available at: <http://pitjournal.unc.edu/article/assessing-long-term-economic-impacts-world-cup-mega-sport-event> [Accessed 24 March 2022].
+12.	Marani, M., Katul, G., Pan, W. and Parolari, A., 2021. Intensity and frequency of extreme novel epidemics. Proceedings of the National Academy of Sciences, 118(35).
+13.	Ohio University. 2022. Athletic directors must strategically manage ethical issues in sports. Discover how Ohio University’s Master of Athletic Administration prepares graduates to run successful athletic programs.. [online] Available at: <https://onlinemasters.ohio.edu/blog/ethical-issues-in-sports/> [Accessed 24 March 2022].
+14.	Owoeye, O., VanderWey, M. and Pike, I., 2020. Reducing Injuries in Soccer (Football): an Umbrella Review of Best Evidence Across the Epidemiological Framework for Prevention. Sports Medicine - Open, 6(1). 
+15.	Sarkar, N., 2016. How do football clubs make money?. [online] Sportskeeda.com. Available at: <https://www.sportskeeda.com/football/how-do-football-clubs-make-money> [Accessed 24 March 2022].
+16.	Sartori, A., 2021. Football Clubs’ Valuation: The European Elite 2021. [online] Available at: <https://home.kpmg/hu/en/home/insights/2021/05/football-clubs-valuation-the-european-elite-2021.html> [Accessed 19 March 2022].
+17.	Stats Perform. 2022. The challenges faced by Football League Clubs in devising and executing an overseas player identification and recruitment strategy - Stats Perform. [online] Available at: <https://www.statsperform.com/resource/the-challenges-faced-by-football-league-clubs-in-devising-and-executing-an-overseas-player-identification-and-recruitment-strategy/> [Accessed 24 March 2022]. 
+18.	Sports Shorts. 2022. Football Behind Bars: Reputation Management Issues for Clubs. [online] Available at: <https://www.sports.legal/2017/03/football-behind-bars-reputation-management-issues-for-clubs/> [Accessed 24 March 2022].
+19.	Whelan, A., 2022. How Can Football Clubs Mitigate Reputational Risks When Evaluating Sponsors?. [online] Duff & Phelps. Available at: <https://www.kroll.com/en/insights/publications/sport/football-clubs-mitigate-reputational-risks> [Accessed 24 March 2022].
 
