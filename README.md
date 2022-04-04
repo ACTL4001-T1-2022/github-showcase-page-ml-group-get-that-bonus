@@ -120,7 +120,9 @@ From the projection above, except the initial funding of 995 million doubloons, 
 
 * **Three-stage separation model:** There will still be residual impacts of COVID-19 pandemic on global economy in 2022 but minimal impacts for 2022 onwards. For 2023-2027, the team will be subject to multiple changes including player composition, revenue and expense composition due to successful implement of strategies and achieving higher rankings in the FSA and other potential changes in short-term.  At this stage, the team is expected to experience revenue boost and expense management. After Year 7, the team is expected to be mature in team operation and should be subject to long-term expense and revenue growth rate. The key assumptions for the 3-stage separation model is shown below.
 
-![](DCF_key_assumptions.png)
+<p align="center">
+<img src=DCF_key_assumptions.png  width="200" height="200"/>
+</p>
 
 > The detailed assumptions by year is shown below.
 
