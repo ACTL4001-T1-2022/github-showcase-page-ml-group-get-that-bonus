@@ -2,7 +2,7 @@
 
 By ML Group
 
-![image-center](football_logo.gif)
+![image alt ><](football_logo.gif)
 
 ---
 ## Project Overview
