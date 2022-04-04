@@ -2,9 +2,7 @@
 
 By ML Group
 
-<p align="center">
-  <img src=football_logo.gif>
-</p>
+![](football_logo.gif)
 
 ---
 ## Project Overview
@@ -120,9 +118,7 @@ From the projection above, except the initial funding of 995 million doubloons, 
 
 * **Three-stage separation model:** There will still be residual impacts of COVID-19 pandemic on global economy in 2022 but minimal impacts for 2022 onwards. For 2023-2027, the team will be subject to multiple changes including player composition, revenue and expense composition due to successful implement of strategies and achieving higher rankings in the FSA and other potential changes in short-term.  At this stage, the team is expected to experience revenue boost and expense management. After Year 7, the team is expected to be mature in team operation and should be subject to long-term expense and revenue growth rate. The key assumptions for the 3-stage separation model is shown below.
 
-<p align="center">
-  <img width="350" height="300" src=DCF_key_assumptions.png>
-</p>
+![](DCF_key_assumptions.png)
 
 > The detailed assumptions by year is shown below.
 
@@ -144,9 +140,7 @@ growth and expense growth can be explored due to limited data. This results in h
 * To maximize revenues, expansion of stadium and invention of creative activities are also very important. Launching a new streaming platform for a subscription fee can increase fan engagement to increase matchday and broadcast revenues.
 * The long-term revenue is composed from 50% commercial, 35% broadcast and 15% matchday as shown below.
 
-<p align="center">
-  <img src=revenue_composition.png>
-</p>
+![](revenue_composition.png)
 
 ---
 
@@ -154,9 +148,7 @@ growth and expense growth can be explored due to limited data. This results in h
 
 > The detailed cash flow projections by year is shown below, where the inflation rate is assumed to be 3% per annum.
 
-<p align="center">
-  <img width="320" height="200" src=economic.PNG>
-</p>
+![](economic.PNG)
 
 ### Direct impacts
 
