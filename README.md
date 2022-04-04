@@ -2,8 +2,9 @@
 
 By ML Group
 
-<img src=football_logo.gif  width="800" />
-
+<p align="center">
+<img src=football_logo.gif  width="600" height="400"/>
+</p>
 ---
 ## Project Overview
 
