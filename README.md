@@ -11,6 +11,12 @@ This page briefly showcases the results and methodology for constructing Rarita'
 
 > To find more details on the SOA Challenge, please click [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
 
+## Project Overview
+
+This page briefly showcases the results and methodology for constructing Rarita's national football team, key strategies to be implemented, 1o-year profit & loss analysis, relevant economic impacts and risk considerations. We applied machine learning models such as linear regression,shrinkage models and ensemble models for feature selection and also built a discounted cash flow model to present the future profit or loss positions of the strategy proposed. We conducted economic analysis by regions...
+
+> To find more details on the SOA Challenge, please click [2022 SOA Research Challenge](https://www.soa.org/research/opportunities/2022-student-research-case-study-challenge/).
+
 ## Project Objectives
 
 The project aims to  help Rarita form a competitive national football team, which is expected to boost the country’s economy. With the competitiveness defined as follows:
