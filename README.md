@@ -145,7 +145,7 @@ growth and expense growth can be explored due to limited data. This results in h
 * The long-term revenue is composed from 50% commercial, 35% broadcast and 15% matchday as shown below.
 
 <p align="center">
-<img src=revenue_composition.png  width="400" height="200"/>
+<img src=revenue_composition.png  width="400" height="400"/>
 </p>
 
 ---
