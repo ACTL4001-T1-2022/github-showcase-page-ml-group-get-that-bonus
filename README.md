@@ -40,7 +40,7 @@ Calculate an overall rank for each player based on weighted average rank of thos
 > For detailed R code, please click  [R code: linear and shrikange models](linear.R) for linear and shrinkage models, click  [R code: Ensemble models](ensemble.R) for tree-based models, click [R code: exploratory data analysis](data_clearning_exploratory_data_analysis.R) for exploratory data analysis. 
 
 ---
-**Data limitatoin: **
+**Data limitatoin:**
 
 >
 * The ‘Tournament Passing’ and ‘Tournament Defense’ data in 2020 is missing. As player performance features are selected by variable significance, the unavailability of 2020 tournament data disallows the split of training and test datasets on aggregate team level. This can lead to not optimal model chosen to support the process of selecting players.
@@ -128,7 +128,7 @@ From the projection above, except the initial funding of 995 million doubloons, 
 
 ---
 
-**Data limitation:** Tournament and league data only involves the past two consecutive years of 2020-2021. No links between the improvement of ranking and past revenue
+ **Data limitation:** Tournament and league data only involves the past two consecutive years of 2020-2021. No links between the improvement of ranking and past revenue
 growth and expense growth can be explored due to limited data. This results in higher dependence in assumptions that are the sources of uncertainty.
 
 ---
@@ -194,7 +194,7 @@ The NPV of direct profit of building the national football team is significantly
 * **Extreme epidemic risk:** The total revenue downturn by year is 11% for the ‘Big Five’ leagues due to the COVID-19 ourbreak. The probability of extreme epidemics in any year is clarified as 2% 
 
 ---
-**Risk Ranking: **
+**Risk Ranking:**
 The two key metrics to rank risks are frequency and severity. By common sense, the healthcare risk has the highest frequency of incidence followed by ethical and reputation risks. However, a strike on reputation would directly result in the significant deduction on future revenue compared to loss of revenue due to injuries of athletes. Hence, it ranked the first followed by healthcare risks. Political risk has lowest ranking due to its extremely low frequency. There are countable numbers of international events affecting the football team.
 
 ---
