@@ -2,7 +2,6 @@
 
 By ML Group
 
-![](football_logo.gif#center)
 <p align="center">
   <img src=football_logo.gif />
 </p>
